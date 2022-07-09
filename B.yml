@@ -1,0 +1,2 @@
+- name: PMD Automatic reviewer
+  uses: krukmat/setup-pmd@v0.4

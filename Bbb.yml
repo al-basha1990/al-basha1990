@@ -1,0 +1,2 @@
+- name: Pull Request SFDX Code Review
+  uses: packocz/sfdx-code-review-action@v0.0.3
